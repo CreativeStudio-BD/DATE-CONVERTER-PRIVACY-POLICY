@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Creative Studio BD built the Date Converter app as an Ad Supported app. This SERVICE is provided by Creative Studio BD at no cost and is intended for use as is.
+Creative Studio BD build the Date Converter app as an Ad Supported app. This SERVICE is provided by Creative Studio BD at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -62,4 +62,4 @@ This policy is effective as of 2020-06-11
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at developer.mru.studio.2019@gmail.com.
 
-Regrade, Thanks.
+Regard, Thanks.
